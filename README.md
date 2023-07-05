@@ -1,16 +1,2 @@
-# installment_calculator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A sample Flutter app using provider state management for calculating the monthly isntallment on a principal amount.
+![Screen UI](https://github.com/MamoonHaider/Monthly-Installment-Calculator-Flutter-App-using-Provider/assets/80359130/64531dff-e341-43a5-a45b-85033d958950)
